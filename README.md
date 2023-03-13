@@ -14,7 +14,7 @@ I am currently in the ninth cycle of the systems engineering degree, but I also 
 ### Contact
 
 <span>
-  <a href="https://rodyhuancas.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+  <a href="https://rodyhuancas.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/hilder-rody-huancas-chuquipoma-ba8138253/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:rodyhuancas.04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/rody.huancaschuquipoma.7"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
