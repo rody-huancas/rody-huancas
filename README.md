@@ -9,7 +9,7 @@ I am currently in the ninth cycle of the systems engineering degree, but I also 
 
 - 🔭 I am currently working as a freelance
 - 👯 I'm looking to collaborate on big projects that help other people.
-- ⚡ Fun fact: I like to collaborate as a team and keep learning new technologies. 
+- ⚡ I consider myself a creative person with an innovative outlook.
 
 ### You can contact me through:
 
