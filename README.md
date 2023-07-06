@@ -1,6 +1,6 @@
 # Hello developer friends!👋
 
-I am a Front End web developer💻 with knowledge in Back End💻. I am currently in the ninth cycle of the systems engineering degree, but I also like to be self-taught and always seek to learn new technologies and put them into practice.
+I am a Full Stack Junior web developer💻 with a strong foundation in both Front End and Back End development💻. I am currently in the ninth cycle of the systems engineering degree, but I also thrive on self-learning and continuously seek to expand my knowledge in new technologies and apply them in practical projects.
 
 - 🔭 I am currently working as a freelance
 - 👯 I'm looking to collaborate on big projects that help other people.
