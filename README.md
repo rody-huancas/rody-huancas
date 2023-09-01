@@ -1,6 +1,10 @@
-# Hello developer friends!👋
+<h1 align="center"><b>Hi , I'm Rody Huancas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a Full Stack Junior web developer💻 with a strong foundation in both Front End and Back End development💻. I am currently in the ninth cycle of the systems engineering degree, but I also thrive on self-learning and continuously seek to expand my knowledge in new technologies and apply them in practical projects.
+<p align="center">
+  <a href="https://github.com/rody-huancas/"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=e44060&size=30&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer...&hearts;"></a>
+</p>
+
+I am a Full Stack web developer, with a solid background in both Front End and Back End development. I'm currently in the last cycle of a systems engineering degree, but I also love self-learning and I'm continuously looking to expand my knowledge in new technologies and apply them in practical projects 💻.
 
 - 🔭 I am currently working as a freelance
 - 👯 I'm looking to collaborate on big projects that help other people.
