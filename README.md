@@ -69,9 +69,8 @@ I am a Full Stack web developer, with a solid background in both Front End and B
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rody-huancas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rody-huancas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=dracula&hide_border=false)
 
 ---
 
