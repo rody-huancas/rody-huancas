@@ -10,7 +10,7 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 * 🖥️  See my portfolio at [rodyhuancas.netlify.app/](http://rodyhuancas.netlify.app/)
 * ✉️  You can contact me at [rodyhuancas.04@gmail.com](mailto:rodyhuancas.04@gmail.com)
 * 🧠  I'm learning TypeScript and Next.js
-* 🤝  I'm open to collaborating on interesting projects as a full stack frontend developer
+* 🤝  I'm open to collaborating on interesting projects as a full stack developer
 
 ### Skills
 
