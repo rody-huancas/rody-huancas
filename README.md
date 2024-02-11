@@ -28,6 +28,8 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23222222.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%231E1E1E.svg?style=for-the-badge&logo=graphql&logoColor=E10098)
 
 #### Backend Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
