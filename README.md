@@ -9,7 +9,7 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 * 🌍  I'm based in Chiclayo, Perú.
 * 🖥️  See my portfolio at [rodyhuancas.netlify.app/](http://rodyhuancas.netlify.app/)
 * ✉️  You can contact me at [rodyhuancas.04@gmail.com](mailto:rodyhuancas.04@gmail.com)
-* 🧠  I'm learning Next.js and Astro
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects as a full stack developer
 
 ### SKILLS
