@@ -7,8 +7,6 @@ Web Developer
 I am a full stack web developer, with knowledge in front-end and back-end technologies. Passionate about learning and facing new challenges to improve skills in interface design and programming logic. Committed to developing efficient and user-oriented web solutions.
 
 * 🌍  I'm based in Chiclayo, Perú.
-* 🖥️  See my portfolio at [rodyhuancas.netlify.app/](http://rodyhuancas.netlify.app/)
-* ✉️  You can contact me at [rodyhuancas.04@gmail.com](mailto:rodyhuancas.04@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects as a full stack developer
 
@@ -21,7 +19,7 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 
 #### Frontend Frameworks and Libraries
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%23.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=Sass&logoColor=white)
@@ -48,6 +46,7 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 
 #### Tools and Services
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
