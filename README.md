@@ -19,7 +19,7 @@ I am a full stack web developer, with knowledge in front-end and back-end techno
 
 #### Frontend Frameworks and Libraries
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%23.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=Sass&logoColor=white)
