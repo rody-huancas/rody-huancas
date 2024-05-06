@@ -7,7 +7,7 @@ Web Developer
 I am a full stack web developer, with knowledge in front-end and back-end technologies. Passionate about learning and facing new challenges to improve skills in interface design and programming logic. Committed to developing efficient and user-oriented web solutions.
 
 * 🌍  I'm based in Chiclayo, Perú.
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js and Astro
 * 🤝  I'm open to collaborating on interesting projects as a full stack developer
 
 ### SKILLS
