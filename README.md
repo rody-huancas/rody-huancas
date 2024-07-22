@@ -53,6 +53,4 @@ Soy un desarrollador web full stack, con amplios conocimientos en tecnologías f
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Contribuciones
-
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Rody%20Huancas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2bd1f3&line=2bd1f3&point=2bd1f3&area_color=FFFFFF&title_color=FFFFFF&area=true" /> | ![Rody Huancas GitHub Stats](https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=radical) |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Rody%20Huancas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2bd1f3&line=2bd1f3&point=2bd1f3&area_color=FFFFFF&title_color=FFFFFF&area=true" />
