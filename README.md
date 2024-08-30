@@ -1,24 +1,20 @@
-# ¡Hola!, me llamo Rody Huancas
+# ¡Hola! Soy Rody Huancas
 
-Desarrollador Web
------------------
+## Desarrollador Web Full Stack
 
-Soy un desarrollador web full stack, con amplios conocimientos en tecnologías front-end y back-end. Me apasiona aprender y enfrentar nuevos desafíos para mejorar mis habilidades en el diseño de interfaces y lógica de programación. Estoy comprometido en desarrollar soluciones web eficientes y orientadas al usuario.
+Soy un desarrollador web full stack con sólidos conocimientos en tecnologías front-end y back-end. Me apasiona aprender y enfrentar nuevos desafíos para perfeccionar mis habilidades en el diseño de interfaces y la lógica de programación. Estoy comprometido en desarrollar soluciones web eficientes y centradas en el usuario.
 
 * 🌍  Vivo en Chiclayo, Perú.
 * 🤝  Estoy abierto a colaborar en proyectos interesantes como desarrollador full stack.
 
 ## HABILIDADES
 
-### Lenguajes de Programación
+### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks y Librerías Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%23007ACC.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=Sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,7 +26,8 @@ Soy un desarrollador web full stack, con amplios conocimientos en tecnologías f
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%23262461.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-### Frameworks y Librerías Backend
+### Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -51,6 +48,8 @@ Soy un desarrollador web full stack, con amplios conocimientos en tecnologías f
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23333333.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+
 
 ## Contribuciones
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Rody%20Huancas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2bd1f3&line=2bd1f3&point=2bd1f3&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Rody%20Huancas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2bd1f3&line=2bd1f3&point=2bd1f3&area_color=FFFFFF&title_color=FFFFFF&area=true)
