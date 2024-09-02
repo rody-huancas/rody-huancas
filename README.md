@@ -1,8 +1,6 @@
 # ¡Hola! Soy Rody Huancas
 
-## Desarrollador Web Full Stack
-
-Soy un desarrollador web full stack con sólidos conocimientos en tecnologías front-end y back-end. Me apasiona aprender y enfrentar nuevos desafíos para perfeccionar mis habilidades en el diseño de interfaces y la lógica de programación. Estoy comprometido en desarrollar soluciones web eficientes y centradas en el usuario.
+Soy un desarrollador web full stack con conocimientos en tecnologías front-end y back-end. Me apasiona aprender y enfrentar nuevos desafíos para perfeccionar mis habilidades en el diseño de interfaces y la lógica de programación. Estoy comprometido en desarrollar soluciones web eficientes y centradas en el usuario.
 
 * 🌍  Vivo en Chiclayo, Perú.
 * 🤝  Estoy abierto a colaborar en proyectos interesantes como desarrollador full stack.
