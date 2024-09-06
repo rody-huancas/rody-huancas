@@ -49,4 +49,13 @@
 
 
 ## Contribuciones
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rody-huancas&theme=blueberry" />
+  <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rody-huancas&theme=blueberry&exclude=CSS,ShaderLab" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rody-huancas&theme=blueberry&exclude=CSS,ShaderLab" />
+  </div>
+</div>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Rody%20Huancas%20GitHub%20Activity%20Graph&bg_color=0D1117&color=2bd1f3&line=2bd1f3&point=2bd1f3&area_color=FFFFFF&title_color=FFFFFF&area=true)
