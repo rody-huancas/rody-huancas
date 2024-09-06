@@ -1,10 +1,10 @@
-# ¡Hola! Soy Rody Huancas
+# Hi! I'm Rody Huancas
 
-* 💻  Soy Desarrollador Web.
-* 🌍  Vivo en Chiclayo, Perú.
-* 🤝  Estoy dispuesto para colaborar en proyectos interesantes.
+* 💻  I'm a Web Developer.
+* 🌍  I live in Chiclayo, Peru.
+* 🤝  I'm open to collaborating on interesting projects.
 
-## HABILIDADES
+## SKILLS
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,12 +32,12 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-%2300A4BD.svg?style=for-the-badge&logo=typeorm&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Bases de Datos
+### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Herramientas y Servicios
+### Tools and Services
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -48,8 +48,7 @@
 ![pnpm](https://img.shields.io/badge/pnpm-%23333333.svg?style=for-the-badge&logo=pnpm&logoColor=white)
 
 
-## Contribuciones
-
+## Contributions
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rody-huancas&theme=blueberry" />
   <div style="display: flex; justify-content: space-between;">
