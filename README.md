@@ -1,6 +1,6 @@
 # Hi! I'm Rody Huancas
 
-* 💻  I'm a Web Developer.
+* 💻  I'm a Web Developer - Full Stack.
 * 🌍  I live in Chiclayo, Peru.
 * 🤝  I'm open to collaborating on interesting projects.
 
