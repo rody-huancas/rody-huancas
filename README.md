@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rody+Huancas!;" />
 </h1>
 
-*Systems Engineer and Full-Stack Developer. I enjoy solving problems, learning new things, and working on projects that make a difference.*
+*Systems Engineer and Web Developer. I enjoy solving problems, learning new things, and working on projects that make a difference.*
 
 ## SKILLS
 
