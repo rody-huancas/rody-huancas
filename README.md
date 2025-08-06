@@ -20,9 +20,6 @@
     <a href="https://github.com/rody-huancas?tab=followers" target="_blank">
       <img src="https://img.shields.io/badge/Followers-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
     </a>
-    <a href="https://github.com/rody-huancas" target="_blank">
-      <img src="https://img.shields.io/badge/Profile-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Profile"/>
-    </a>
   </div>
 </div>
 
