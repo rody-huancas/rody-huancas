@@ -150,7 +150,7 @@
 
 <div align="center">
   
-### 🤝 **Let's Connect!**
+### 🤝 **Let's get connected now to start a great project.!**
 
 *"The best way to predict the future is to create it."*
 
