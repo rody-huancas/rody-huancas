@@ -20,6 +20,9 @@
     <a href="https://github.com/rody-huancas?tab=followers" target="_blank">
       <img src="https://img.shields.io/badge/Followers-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
     </a>
+    <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
   </div>
 </div>
 
@@ -33,6 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </div>
 
@@ -150,7 +154,7 @@
 
 <div align="center">
   
-### 🤝 **Let's get connected now to start a great project.!**
+### 🤝 **Let's get connected now to start a great project!**
 
 *"The best way to predict the future is to create it."*
 
