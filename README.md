@@ -93,9 +93,6 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&card_width=400" alt="GitHub Stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=react&hide_border=true&card_width=400" alt="GitHub Streak" />
     </td>
   </tr>
@@ -126,15 +123,14 @@
 
 ## 🌟 **What I'm Currently Working On**
 
-<div align="center">
+<div align="left">
 
 ```javascript
 const currentFocus = {
-  🔭 building: "Full-stack applications with modern tech stack",
-  🌱 learning: "Advanced DevOps, Cloud Architecture, and AI/ML",
-  👯 collaborating: "Open source projects and innovative startups",
-  🎯 goals: "Contributing to impactful tech solutions",
-  ⚡ fact: "I turn coffee into code and ideas into reality!"
+  🔭 Development  : "Full-stack applications with modern technology",
+  👯 Collaboration: "Open source projects innovative",
+  🎯 Objectives   : "Contribute to impactful technology solutions",
+  ⚡ Fact         : "I turn coffee into code and ideas into reality!"
 };
 ```
 
