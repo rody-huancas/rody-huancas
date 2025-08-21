@@ -68,6 +68,7 @@
 <br/>
 <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="50" height="50" alt="TypeORM"/>
 <img src="https://raw.githubusercontent.com/Automattic/mongoose/master/docs/images/mongoose5_62x30_transparent.png" width="80" height="40" alt="Mongoose"/>
+<img src="https://skillicons.dev/icons?i=prisma&theme=light" height="50" alt="Prisma" />
 
 </div>
 
