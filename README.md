@@ -4,17 +4,17 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rody-huancas&color=0891b2&style=flat-square" />
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+%F0%9F%92%BB;Solucionador+de+Problemas+%F0%9F%A7%A9;Entusiasta+de+la+Innovaci%C3%B3n+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%94%A5;Impulsor+de+la+Innovaci%C3%B3n+%F0%9F%9A%80" />
   </h3>
   
   <br/>
   
   <p align="center">
-    <em>🎯 Transformando desafíos complejos en soluciones elegantes a través del código</em>
+    <em>🎯 Transformando ideas en soluciones digitales escalables y de impacto</em>
   </p>
   
   <p align="center">
-    <samp>Apasionado por tecnologías de vanguardia | Construyendo experiencias digitales impactantes | Aprendizaje continuo</samp>
+    <samp>💡 Creando software con propósito | 🌍 Enfocado en calidad y usabilidad | 📚 Aprendizaje continuo</samp>
   </p>
 
   <br/>
