@@ -300,9 +300,6 @@ const rodyHuancas = {
 
 <div align="center">
   
-  <p>
-    <em>🚀 Abierto a oportunidades emocionantes y colaboraciones</em>
-  </p>
   
   <p>
     💬 ¡No dudes en contactarme si quieres discutir sobre tecnología, colaborar en proyectos o simplemente charlar!
