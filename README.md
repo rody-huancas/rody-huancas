@@ -1,33 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rody%20Huancas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rody%20Huancas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rody-huancas&color=0891b2&style=flat-square" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rody-huancas&color=0891b2&style=flat-square&logo=github" />
   
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=480&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%94%A5;Impulsor+de+la+Innovaci%C3%B3n+%F0%9F%9A%80" />
-  </h3>
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Innovation+Driver+%F0%9F%9A%80" />
+  </h2>
   
   <br/>
   
   <p align="center">
-    <em>🎯 Transformando ideas en soluciones digitales escalables y de impacto</em>
+    <em>🎯 Transformando ideas en soluciones digitales escalables e innovadoras</em>
   </p>
   
   <p align="center">
-    <samp>💡 Creando software con propósito | 🌍 Enfocado en calidad y usabilidad | 📚 Aprendizaje continuo</samp>
+    <samp>💡 Creando software con propósito | 🌍 Calidad y experiencia de usuario | 📚 Aprendizaje perpetuo</samp>
   </p>
 
   <br/>
 
   <div align="center">
     <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="28"/>
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
     </a>
     <a href="mailto:rodyhuancas.04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" height="28"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
     </a>
     <a href="https://github.com/rody-huancas?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Repositorios" height="28"/>
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
     </a>
   </div>
 </div>
@@ -38,182 +38,218 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Stack Tecnológico y Experiencia**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Mi Arsenal Tecnológico**
 
-### 👨‍💻 **Lenguajes de Programación**
+### 💻 **Lenguajes de Programación**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br><strong>JavaScript</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
+        <br><sub><b>JavaScript</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br><strong>TypeScript</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript" />
+        <br><sub><b>TypeScript</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-        <br><strong>PHP</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
+        <br><sub><b>PHP</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
-        <br><strong>C#</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#" />
+        <br><sub><b>C#</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-### 🎨 **Desarrollo Frontend**
+### 🎨 **Frontend Development**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br><strong>React</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+        <br><sub><b>React</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="filter: invert(1);" />
-        <br><strong>Next.js</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+        <br><sub><b>Next.js</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="48" height="48" alt="Astro" />
-        <br><strong>Astro</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=astro" width="55" height="55" alt="Astro" />
+        <br><sub><b>Astro</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-        <br><strong>HTML5</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+        <br><sub><b>HTML5</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-        <br><strong>CSS3</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+        <br><sub><b>CSS3</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-        <br><strong>Sass</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
+        <br><sub><b>Sass</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-        <br><strong>Tailwind</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+        <br><sub><b>Tailwind CSS</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+        <br><sub><b>Bootstrap</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
-        <br><strong>Material UI</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=materialui" width="55" height="55" alt="Material UI" />
+        <br><sub><b>Material UI</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-### ⚙️ **Desarrollo Backend**
+### ⚙️ **Backend Development**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br><strong>Node.js</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+        <br><sub><b>Node.js</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" style="background-color: white; padding: 5px; border-radius: 8px;" />
-        <br><strong>Express</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express" />
+        <br><sub><b>Express</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" />
-        <br><strong>NestJS</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="NestJS" />
+        <br><sub><b>NestJS</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" />
-        <br><strong>Laravel</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel" />
+        <br><sub><b>Laravel</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter" />
-        <br><strong>CodeIgniter</strong>
+      <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="55" height="55" alt="CodeIgniter" style="background-color: white; padding: 8px; border-radius: 8px;" />
+        <br><sub><b>CodeIgniter</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-        <br><strong>GraphQL</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="GraphQL" />
+        <br><sub><b>GraphQL</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt=".NET" />
+        <br><sub><b>.NET Core</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-### 🗄️ **Bases de Datos y ORMs**
+### 🗄️ **Bases de Datos & ORMs**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-        <br><strong>PostgreSQL</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" />
+        <br><sub><b>PostgreSQL</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br><strong>MySQL</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+        <br><sub><b>MySQL</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br><strong>MongoDB</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+        <br><sub><b>MongoDB</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
-        <br><strong>SQL Server</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite" />
+        <br><sub><b>SQLite</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
+        <br><sub><b>Prisma</b></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma" style="background-color: white; padding: 8px; border-radius: 10px;" />
-        <br><strong>Prisma</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose" />
-        <br><strong>Mongoose</strong>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" width="48" height="48" alt="TypeORM" style="background-color: white; padding: 8px; border-radius: 10px;" />
-        <br><strong>TypeORM</strong>
+      <td align="center" width="110">
+        <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="55" height="55" alt="TypeORM" style="border-radius: 8px;" />
+        <br><sub><b>TypeORM</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-### 🛠️ **DevOps y Herramientas**
+### 📱 **Mobile Development**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br><strong>Docker</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React Native" />
+        <br><sub><b>React Native</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-        <br><strong>Git</strong>
+    </tr>
+  </table>
+</div>
+
+### ☁️ **DevOps & Deployment**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
+        <br><sub><b>Docker</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-        <br><strong>Figma</strong>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
+        <br><sub><b>Vercel</b></sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
-        <br><strong>Postman</strong>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ **Herramientas de Desarrollo**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+        <br><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+        <br><sub><b>GitHub</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+        <br><sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+        <br><sub><b>Figma</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+        <br><sub><b>Postman</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=jest" width="55" height="55" alt="Jest" />
+        <br><sub><b>Jest</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
+        <br><sub><b>Vite</b></sub>
       </td>
     </tr>
   </table>
@@ -225,40 +261,103 @@
 
 <br/>
 
-## 📊 **Analíticas de GitHub**
+## 📊 **GitHub Analytics & Performance**
 
 <div align="center">
   
-  ### 🔥 **Racha de Contribuciones**
+  ### 🔥 **Streak & Activity**
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=tokyonight&hide_border=true&border_radius=10&card_width=600&locale=es" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=tokyonight&hide_border=true&border_radius=15&card_width=650&locale=es" alt="GitHub Streak Stats" />
   
   <br/><br/>
   
-  ### 📈 **Gráfico de Actividad**
+  ### 📈 **Contribution Graph**
   
-  [![Actividad de GitHub de Rody](https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Gráfico%20de%20Contribuciones%20de%20Rody&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=bf91f3&area=true&hide_border=true&radius=10)](https://github.com/rody-huancas)
+  [![Actividad de GitHub de Rody](https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Gráfico%20de%20Contribuciones%20-%20Rody%20Huancas&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area_color=21262d&area=true&hide_border=true&radius=16)](https://github.com/rody-huancas)
   
   <br/>
   
-  ### 📊 **Estadísticas de GitHub**
+  ### 📊 **GitHub Statistics**
   
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=400&include_all_commits=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20GitHub" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=400&langs_count=8&locale=es" alt="Lenguajes Más Usados" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&locale=es&custom_title=Lenguajes%20Más%20Utilizados" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  ### 🏆 **Logros y Trofeos**
+  ### 🏆 **GitHub Achievements**
   
-  <img src="https://github-profile-trophy.vercel.app/?username=rody-huancas&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rody-huancas&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  
+  <br/>
+  
+  ### 📅 **Contribution Calendar**
+  
+  ![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/rody-huancas)
+  
+  <br/>
+  
+  ### 🎯 **GitHub Metrics**
+  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rody-huancas&theme=tokyonight" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rody-huancas&theme=tokyonight" alt="Repos per Language" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rody-huancas&theme=tokyonight" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rody-huancas&theme=tokyonight" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rody-huancas&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  ### 📈 **Additional Metrics**
+  
+  <div align="center">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="Detailed GitHub Stats" />
+  </div>
+  
+  <br/>
+  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/rody-huancas?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="GitHub Followers" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/rody-huancas?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=f85149" alt="GitHub Stars" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=rody-huancas&style=for-the-badge&color=58a6ff" alt="Profile Views" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge" alt="Available for Work" />
+      </td>
+    </tr>
+  </table>
   
 </div>
 
@@ -268,26 +367,43 @@
 
 <br/>
 
-## 🎯 **Enfoque Actual**
+## 🎯 **Perfil Profesional**
 
 ```typescript
-const rodyHuancas = {
-  rol: "Desarrollador Full Stack",
-  ubicación: "Perú 🇵🇪",
-  trabajandoEn: [
-    "Construyendo aplicaciones web escalables",
-    "Explorando integración de IA",
-    "Contribuyendo a proyectos de código abierto"
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  location: string;
+  experience: number;
+  specializations: string[];
+  currentFocus: string[];
+  techPhilosophy: string;
+  funFact: string;
+}
+
+const rodyHuancas: DeveloperProfile = {
+  name: "Rody Huancas",
+  role: "Full Stack Developer & Software Engineer",
+  location: "Lima, Perú 🇵🇪",
+  experience: 3,
+  specializations: [
+    "Arquitectura de Software",
+    "Desarrollo Web Full Stack",
+    "APIs RESTful & GraphQL",
+    "Desarrollo Mobile",
+    "DevOps & Deployment"
   ],
-  intereses: [
-    "Arquitectura Limpia",
-    "Backend",
-    "Frontend",
-    "Mobile"
+  currentFocus: [
+    "Microservicios con Node.js & NestJS",
+    "Aplicaciones React/Next.js escalables",
+    "Integración de IA en aplicaciones web",
+    "Contribuciones open source"
   ],
-  datosCuriosos: "¡Depuro con console.log y no me avergüenzo! 😄",
-  lema: "El código es poesía escrita en lógica"
+  techPhilosophy: "Código limpio, arquitectura sólida, UX excepcional",
+  funFact: "console.log() es mi mejor amigo para debugging 🐛✨"
 };
+
+// Siempre aprendiendo, siempre evolucionando 🚀
 ```
 
 <br/>
@@ -296,31 +412,56 @@ const rodyHuancas = {
 
 <br/>
 
-## 💼 **Conectemos**
+## 💼 **¡Colaboremos Juntos!**
 
 <div align="center">
   
+  ### 🤝 **¿En qué puedo ayudarte?**
   
-  <p>
-    💬 ¡No dudes en contactarme si quieres discutir sobre tecnología, colaborar en proyectos o simplemente charlar!
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/web-design.png" width="64" alt="Web Development"/>
+        <br><b>Desarrollo Web</b>
+        <p><small>Aplicaciones modernas y escalables</small></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/api-settings.png" width="64" alt="API Development"/>
+        <br><b>APIs & Backend</b>
+        <p><small>Servicios robustos y seguros</small></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/smartphone.png" width="64" alt="Mobile Development"/>
+        <br><b>Apps Móviles</b>
+        <p><small>Experiencias cross-platform</small></p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/96/consulting.png" width="64" alt="Consulting"/>
+        <br><b>Consultoría Tech</b>
+        <p><small>Arquitectura y mejores prácticas</small></p>
+      </td>
+    </tr>
+  </table>
   
   <br/>
   
-  <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
-  </a>
-  <a href="mailto:rodyhuancas.04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Envía_un_correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/>
-  </a>
-  
-  <br/><br/>
-  
-  <p>
-    <strong>"La única manera de hacer un gran trabajo es amar lo que haces"</strong> - Steve Jobs
-  </p>
+  <div>
+    <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
+      <img src="https://img.shields.io/badge/💼_Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+    </a>
+    <a href="mailto:rodyhuancas.04@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+    </a>
+    <a href="https://github.com/rody-huancas?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/🔍_Ver_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" height="40"/>
+    </a>
+  </div>
   
   <br/>
+  
+  > 💬 **¿Tienes una idea genial?** ¡Hablemos y convirtámosla en realidad!<br/>
+  > 🌟 **¿Necesitas colaboración?** Estoy abierto a proyectos interesantes<br/>
+  > 🚀 **¿Quieres aprender?** Comparto conocimientos con la comunidad
   
 </div>
 
@@ -328,10 +469,21 @@ const rodyHuancas = {
 
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  
+  ### 🌟 **"El mejor código es el que resuelve problemas reales"** 
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
   
   <p>
-    <em>⭐️ Si encuentras interesante mi trabajo, ¡no olvides darle estrella a mis repositorios!</em>
+    <em>⭐️ Si mi trabajo te resulta interesante, ¡no olvides darle estrella a mis repositorios!</em><br/>
+    <em>🤝 Siempre abierto a colaboraciones y nuevas oportunidades</em>
   </p>
+  
+  <br/>
+  
 </div>
