@@ -237,6 +237,10 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
         <br><sub><b>VS Code</b></sub>
       </td>
+       <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="55" height="55" alt="Visual Studio" />
+        <br><sub><b>Visual Studio</b></sub>
+      </td>
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
         <br><sub><b>Figma</b></sub>
@@ -438,11 +442,6 @@ const rodyHuancas: DeveloperProfile = {
         <img src="https://img.icons8.com/color/96/smartphone.png" width="64" alt="Mobile Development"/>
         <br><b>Apps Móviles</b>
         <p><small>Experiencias cross-platform</small></p>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/consulting.png" width="64" alt="Consulting"/>
-        <br><b>Consultoría Tech</b>
-        <p><small>Arquitectura y mejores prácticas</small></p>
       </td>
     </tr>
   </table>
