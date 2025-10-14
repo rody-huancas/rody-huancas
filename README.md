@@ -157,6 +157,10 @@
   <table>
     <tr>
       <td align="center" width="110">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="SQL Server" />
+        <br><sub><b>SQL Server</b></sub>
+      </td>
+      <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" />
         <br><sub><b>PostgreSQL</b></sub>
       </td>
