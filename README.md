@@ -1,492 +1,369 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rody%20Huancas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rody%20Huancas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rody-huancas&color=0891b2&style=flat-square&logo=github" />
-  
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Innovation+Driver+%F0%9F%9A%80" />
-  </h2>
-  
-  <br/>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+🚀;Systems+Engineer+🎓;Building+Scalable+Solutions+💻;Open+to+Opportunities+🌟" />
+  </h1>
   
   <p align="center">
-    <em>🎯 Transformando ideas en soluciones digitales escalables e innovadoras</em>
+    <strong>🎯 Crafting innovative digital solutions with clean code and modern architecture</strong>
   </p>
   
   <p align="center">
-    <samp>💡 Creando software con propósito | 🌍 Calidad y experiencia de usuario | 📚 Aprendizaje perpetuo</samp>
-  </p>
-
-  <br/>
-
-  <div align="center">
     <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:rodyhuancas.04@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/rody-huancas?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
+      <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
-  </div>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=rody-huancas&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <br/>
 
----
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Mi Arsenal Tecnológico**
-
-### 💻 **Lenguajes de Programación**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript" />
-        <br><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
-        <br><sub><b>PHP</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#" />
-        <br><sub><b>C#</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🎨 **Frontend Development**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
-        <br><sub><b>React</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
-        <br><sub><b>Next.js</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=astro" width="55" height="55" alt="Astro" />
-        <br><sub><b>Astro</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-        <br><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-        <br><sub><b>CSS3</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
-        <br><sub><b>Sass</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
-        <br><sub><b>Tailwind CSS</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
-        <br><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=materialui" width="55" height="55" alt="Material UI" />
-        <br><sub><b>Material UI</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### ⚙️ **Backend Development**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
-        <br><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=express" width="55" height="55" alt="Express" />
-        <br><sub><b>Express</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="55" height="55" alt="NestJS" />
-        <br><sub><b>NestJS</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel" />
-        <br><sub><b>Laravel</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="55" height="55" alt="CodeIgniter" style="background-color: white; padding: 8px; border-radius: 8px;" />
-        <br><sub><b>CodeIgniter</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="GraphQL" />
-        <br><sub><b>GraphQL</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" alt=".NET" />
-        <br><sub><b>.NET Core</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🗄️ **Bases de Datos & ORMs**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="SQL Server" />
-        <br><sub><b>SQL Server</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" alt="PostgreSQL" />
-        <br><sub><b>PostgreSQL</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
-        <br><sub><b>MySQL</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
-        <br><sub><b>MongoDB</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55" alt="SQLite" />
-        <br><sub><b>SQLite</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
-        <br><sub><b>Prisma</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="55" height="55" alt="TypeORM" style="border-radius: 8px;" />
-        <br><sub><b>TypeORM</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📱 **Mobile Development**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React Native" />
-        <br><sub><b>React Native</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### ☁️ **DevOps & Deployment**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
-        <br><sub><b>Docker</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
-        <br><sub><b>Vercel</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ **Herramientas de Desarrollo**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
-        <br><sub><b>Git</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
-        <br><sub><b>GitHub</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
-        <br><sub><b>VS Code</b></sub>
-      </td>
-       <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=visualstudio" width="55" height="55" alt="Visual Studio" />
-        <br><sub><b>Visual Studio</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-        <br><sub><b>Figma</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-        <br><sub><b>Postman</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=jest" width="55" height="55" alt="Jest" />
-        <br><sub><b>Jest</b></sub>
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=vite" width="55" height="55" alt="Vite" />
-        <br><sub><b>Vite</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📊 **GitHub Analytics & Performance**
-
-<div align="center">
-  
-  ### 🔥 **Streak & Activity**
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=tokyonight&hide_border=true&border_radius=15&card_width=650&locale=es" alt="GitHub Streak Stats" />
-  
-  <br/><br/>
-  
-  ### 📈 **Contribution Graph**
-  
-  [![Actividad de GitHub de Rody](https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Gráfico%20de%20Contribuciones%20-%20Rody%20Huancas&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area_color=21262d&area=true&hide_border=true&radius=16)](https://github.com/rody-huancas)
-  
-  <br/>
-  
-  ### 📊 **GitHub Statistics**
-  
-  <table align="center">
-    <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&locale=es&custom_title=Estadísticas%20de%20GitHub" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10&locale=es&custom_title=Lenguajes%20Más%20Utilizados" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  ### 🏆 **GitHub Achievements**
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=rody-huancas&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  
-  <br/>
-  
-  ### 📅 **Contribution Calendar**
-  
-  ![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/rody-huancas)
-  
-  <br/>
-  
-  ### 🎯 **GitHub Metrics**
-  
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rody-huancas&theme=tokyonight" alt="Profile Details" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rody-huancas&theme=tokyonight" alt="Repos per Language" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rody-huancas&theme=tokyonight" alt="Most Commit Language" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rody-huancas&theme=tokyonight" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rody-huancas&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  ### 📈 **Additional Metrics**
-  
-  <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="Detailed GitHub Stats" />
-  </div>
-  
-  <br/>
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/followers/rody-huancas?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" alt="GitHub Followers" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/rody-huancas?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=f85149" alt="GitHub Stars" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=rody-huancas&style=for-the-badge&color=58a6ff" alt="Profile Views" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge" alt="Available for Work" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🎯 **Perfil Profesional**
-
+## 👨‍💻 About Me
 ```typescript
-interface DeveloperProfile {
-  name: string;
-  role: string;
-  location: string;
-  experience: number;
-  specializations: string[];
-  currentFocus: string[];
-  techPhilosophy: string;
-  funFact: string;
-}
-
-const rodyHuancas: DeveloperProfile = {
-  name: "Rody Huancas",
-  role: "Full Stack Developer & Software Engineer",
-  location: "Lima, Perú 🇵🇪",
-  experience: 3,
-  specializations: [
-    "Arquitectura de Software",
-    "Desarrollo Web Full Stack",
-    "APIs RESTful & GraphQL",
-    "Desarrollo Mobile",
-    "DevOps & Deployment"
+const rodyHuancas = {
+  role: "Full Stack Software Engineer",
+  location: "Lima, Peru 🇵🇪",
+  yearsOfExperience: 3,
+  
+  expertise: {
+    frontend: ["React", "Next.js", "TypeScript", "Responsive Design"],
+    backend: ["Node.js", "NestJS", "Laravel", ".NET Core", "GraphQL"],
+    databases: ["PostgreSQL", "MongoDB", "SQL Server", "MySQL"],
+    mobile: ["React Native"],
+    devOps: ["Docker", "CI/CD", "Cloud Deployment"]
+  },
+  
+  currentlyFocusing: [
+    "Building scalable microservices architecture",
+    "Performance optimization & best practices",
+    "Contributing to open source projects",
+    "Exploring AI integration in web applications"
   ],
-  currentFocus: [
-    "Microservicios con Node.js & NestJS",
-    "Aplicaciones React/Next.js escalables",
-    "Integración de IA en aplicaciones web",
-    "Contribuciones open source"
-  ],
-  techPhilosophy: "Código limpio, arquitectura sólida, UX excepcional",
-  funFact: "console.log() es mi mejor amigo para debugging 🐛✨"
+  
+  philosophy: "Clean code, solid architecture, exceptional user experience",
+  availability: "Open to new opportunities and collaborations",
+  
+  funFact: "I debug with console.log() and I'm not ashamed 🐛✨"
 };
-
-// Siempre aprendiendo, siempre evolucionando 🚀
 ```
 
 <br/>
 
----
+## 🛠️ Tech Stack
 
-<br/>
-
-## 💼 **¡Colaboremos Juntos!**
+### 💻 Programming Languages
 
 <div align="center">
-  
-  ### 🤝 **¿En qué puedo ayudarte?**
-  
   <table>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/web-design.png" width="64" alt="Web Development"/>
-        <br><b>Desarrollo Web</b>
-        <p><small>Aplicaciones modernas y escalables</small></p>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/api-settings.png" width="64" alt="API Development"/>
-        <br><b>APIs & Backend</b>
-        <p><small>Servicios robustos y seguros</small></p>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" />
+        <br><strong>TypeScript</strong>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/96/smartphone.png" width="64" alt="Mobile Development"/>
-        <br><b>Apps Móviles</b>
-        <p><small>Experiencias cross-platform</small></p>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=php" width="65" height="65" alt="PHP" />
+        <br><strong>PHP</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=cs" width="65" height="65" alt="C#" />
+        <br><strong>C#</strong>
       </td>
     </tr>
   </table>
+</div>
+
+### 🎨 Frontend Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+        <br><strong>Next.js</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=astro" width="65" height="65" alt="Astro" />
+        <br><strong>Astro</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+        <br><strong>HTML5</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
+        <br><strong>CSS3</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=sass" width="65" height="65" alt="Sass" />
+        <br><strong>Sass</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind CSS" />
+        <br><strong>Tailwind CSS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+        <br><strong>Bootstrap</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=materialui" width="65" height="65" alt="Material UI" />
+        <br><strong>Material UI</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ⚙️ Backend Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+        <br><strong>Node.js</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+        <br><strong>Express</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" />
+        <br><strong>NestJS</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="Laravel" />
+        <br><strong>Laravel</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="65" height="65" alt="CodeIgniter" style="background-color: white; padding: 10px; border-radius: 10px;" />
+        <br><strong>CodeIgniter</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="GraphQL" />
+        <br><strong>GraphQL</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET Core" />
+        <br><strong>.NET Core</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🗄️ Databases & ORMs
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="SQL Server" />
+        <br><strong>SQL Server</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
+        <br><strong>PostgreSQL</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+        <br><strong>SQLite</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=prisma" width="65" height="65" alt="Prisma" />
+        <br><strong>Prisma</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="65" height="65" alt="TypeORM" style="border-radius: 10px;" />
+        <br><strong>TypeORM</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📱 Mobile Development
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React Native" />
+        <br><strong>React Native</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### ☁️ DevOps & Cloud
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" alt="Vercel" />
+        <br><strong>Vercel</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ Tools & Development Environment
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+        <br><strong>Git</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
+        <br><strong>GitHub</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+        <br><strong>VS Code</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio" />
+        <br><strong>Visual Studio</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+        <br><strong>Figma</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+        <br><strong>Postman</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=jest" width="65" height="65" alt="Jest" />
+        <br><strong>Jest</strong>
+      </td>
+      <td align="center" width="140">
+        <img src="https://skillicons.dev/icons?i=vite" width="65" height="65" alt="Vite" />
+        <br><strong>Vite</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rody's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Rody's Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=tokyonight&hide_border=true" alt="Rody's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rody-huancas&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="Rody's GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 💼 What I Can Help You With
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/web-design.png" width="80" alt="Web Development"/>
+      <br/><br/>
+      <h3>🌐 Full Stack Development</h3>
+      <p>Building modern, scalable web applications with React, Next.js, Node.js, and more</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/api-settings.png" width="80" alt="API Development"/>
+      <br/><br/>
+      <h3>⚡ API & Backend Services</h3>
+      <p>Designing robust RESTful and GraphQL APIs with clean architecture</p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/code.png" width="80" alt="Problem Solving"/>
+      <br/><br/>
+      <h3>🎯 Problem Solving</h3>
+      <p>Optimizing performance, debugging complex issues, and implementing best practices</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎯 Currently Working On
+
+- 🔨 Building microservices architecture with NestJS and Docker
+- 📱 Developing cross-platform mobile apps with React Native
+- 🌟 Contributing to open source projects
+- 📚 Deepening knowledge in system design and scalable architecture
+- 🤖 Exploring AI/ML integration in web applications
+
+<br/>
+
+## 🤝 Let's Connect!
+
+<div align="center">
   
-  <br/>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
-      <img src="https://img.shields.io/badge/💼_Conectar_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
-    </a>
-    <a href="mailto:rodyhuancas.04@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
-    </a>
-    <a href="https://github.com/rody-huancas?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/🔍_Ver_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" height="40"/>
-    </a>
-  </div>
-  
-  <br/>
-  
-  > 💬 **¿Tienes una idea genial?** ¡Hablemos y convirtámosla en realidad!<br/>
-  > 🌟 **¿Necesitas colaboración?** Estoy abierto a proyectos interesantes<br/>
-  > 🚀 **¿Quieres aprender?** Comparto conocimientos con la comunidad
-  
+I'm always open to interesting conversations and collaboration opportunities!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rody-huancas)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodyhuancas.04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Check_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rody-huancas?tab=repositories)
+
+<br/>
+
+**💡 Have an exciting project in mind?** Let's discuss how we can make it happen!  
+**🌟 Looking for collaboration?** I'm always interested in meaningful projects  
+**🚀 Need a reliable developer?** Feel free to reach out!
+
 </div>
 
 <br/>
 
 ---
 
-<br/>
-
 <div align="center">
   
-  ### 🌟 **"El mejor código es el que resuelve problemas reales"** 
+### ⭐ If you find my work interesting, consider starring my repositories!
   
-  <br/>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-  
-  <p>
-    <em>⭐️ Si mi trabajo te resulta interesante, ¡no olvides darle estrella a mis repositorios!</em><br/>
-    <em>🤝 Siempre abierto a colaboraciones y nuevas oportunidades</em>
-  </p>
-  
-  <br/>
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 </div>
