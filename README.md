@@ -20,8 +20,6 @@
       <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=rody-huancas&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 <br/>
@@ -34,15 +32,14 @@ const rodyHuancas = {
   yearsOfExperience: 3,
   
   expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Responsive Design"],
-    backend: ["Node.js", "NestJS", "Laravel", ".NET Core", "GraphQL"],
+    frontend : ["React", "Next.js", "TypeScript", "Responsive Design"],
+    backend  : ["Node.js", "NestJS", "Laravel", ".NET Core", "GraphQL"],
     databases: ["PostgreSQL", "MongoDB", "SQL Server", "MySQL"],
-    mobile: ["React Native"],
-    devOps: ["Docker", "CI/CD", "Cloud Deployment"]
+    mobile   : ["React Native"],
+    devOps   : ["Docker", "CI/CD", "Cloud Deployment"]
   },
   
   currentlyFocusing: [
-    "Building scalable microservices architecture",
     "Performance optimization & best practices",
     "Contributing to open source projects",
     "Exploring AI integration in web applications"
