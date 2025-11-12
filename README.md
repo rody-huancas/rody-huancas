@@ -327,7 +327,6 @@ const rodyHuancas = {
 
 ## 🎯 Currently Working On
 
-- 🔨 Building microservices architecture with NestJS and Docker
 - 📱 Developing cross-platform mobile apps with React Native
 - 🌟 Contributing to open source projects
 - 📚 Deepening knowledge in system design and scalable architecture
