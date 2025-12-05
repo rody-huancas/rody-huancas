@@ -28,7 +28,7 @@
 ```typescript
 const rodyHuancas = {
   role: "Full Stack Software Engineer",
-  location: "Lima, Peru 🇵🇪",
+  location: "Chiclayo, Peru 🇵🇪",
   yearsOfExperience: 3,
   
   expertise: {
