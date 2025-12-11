@@ -105,21 +105,6 @@ const rodyHuancas = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rody-huancas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rody's GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rody-huancas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rody-huancas&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
----
-
 ## 💼 How I Can Add Value
 
 <table>
