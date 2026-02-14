@@ -17,7 +17,7 @@
     <a href="mailto:rodyhuancas.04@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://rody-huancas.dev" target="_blank">
+    <a href="https://rody-huancas.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=flat&logo=chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
