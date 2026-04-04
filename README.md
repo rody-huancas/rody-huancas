@@ -59,7 +59,6 @@ const rodyHuancas = {
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,docker,git,figma" alt="Data and Infra" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
-  <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="48" alt="TypeORM"/>
 </p>
 
 ## 📊 GitHub Analytics
