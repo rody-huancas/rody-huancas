@@ -57,7 +57,7 @@ const rodyHuancas = {
 
 ### 🗄️ Data & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,docker,git,figma" alt="Data and Infra" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,docker,git,figma,postman" alt="Data and Infra" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
 </p>
 
