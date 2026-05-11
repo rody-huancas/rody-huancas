@@ -43,24 +43,166 @@ const rodyHuancas = {
 };
 ```
 
-## 🛠️ Specialized Stack
+## 🛠️ Tech Stack
 
-### 🚀 Core Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,tailwind,mui" alt="Core Stack" />
-</p>
+### 🎨 Frontend
 
-### ⚙️ Backend & Enterprise
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,graphql" alt="Backend Stack" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" /><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" /><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" /><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" width="45" /><br/>
+      <sub>React Native</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" /><br/>
+      <sub>Tailwind</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mui" width="45" /><br/>
+      <sub>MUI</sub>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Data & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,docker,git,figma,postman" alt="Data and Infra" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server"/>
-</p>
+### ⚙️ Backend
 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" /><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" /><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" /><br/>
+      <sub>NestJS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs" width="45" /><br/>
+      <sub>C#</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" /><br/>
+      <sub>.NET</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" /><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" /><br/>
+      <sub>Laravel</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" /><br/>
+      <sub>GraphQL</sub>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Data & ORM
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" /><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" /><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" /><br/>
+      <sub>Redis</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" /><br/>
+      <sub>Prisma</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" width="45" /><br/>
+      <sub>SQL Server</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=typeorm" width="45" /><br/>
+      <sub>TypeORM</sub>
+    </td>
+  </tr>
+</table>
+
+### 🚀 DevOps & Tools
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" /><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" /><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" /><br/>
+      <sub>Figma</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" /><br/>
+      <sub>Postman</sub>
+    </td>
+  </tr>
+</table>
+
+### 📦 Package Managers
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=npm" width="45" /><br/>
+      <sub>npm</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="45" /><br/>
+      <sub>pnpm</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=yarn" width="45" /><br/>
+      <sub>Yarn</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bun" width="45" /><br/>
+      <sub>Bun</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
