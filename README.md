@@ -23,9 +23,8 @@
 ## 👋 <samp>Sobre Mí</samp>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Experiencia-3+%20Años-blue?style=flat-square&labelColor=20232a" />
+  <img src="https://img.shields.io/badge/Experiencia-+3%20Años-blue?style=flat-square&labelColor=20232a" />
   <img src="https://img.shields.io/badge/Ubicación-Chiclayo,%20PE-009543?style=flat-square&labelColor=20232a" />
-  <img src="https://img.shields.io/badge/Enfoque-Diseño%20de%20Sistemas-6b4fbb?style=flat-square&labelColor=20232a" />
 </p>
 
 > [!IMPORTANT]
