@@ -35,7 +35,7 @@ const rodyHuancas = {
   stack      : {
     core     : ["TypeScript", "Next.js", "Node.js", "NestJS"],
     backend  : ["C#/.NET", "PHP/Laravel", "Go (Learning)"],
-    data     : ["PostgreSQL", "MongoDB", "Redis"],
+    data     : ["PostgreSQL", "MongoDB"],
     cloud    : ["Docker", "Vercel", "AWS Fundamentals"]
   },
   softSkills : ["Technical Leadership", "Problem Solving", "Effective Communication"],
@@ -134,10 +134,6 @@ const rodyHuancas = {
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" /><br/>
       <sub>MySQL</sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" width="45" /><br/>
-      <sub>Redis</sub>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=prisma" width="45" /><br/>
