@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,30,40&height=180&section=header&text=Rody%20Huancas&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Systems+Engineer+⚙️;Full+Stack+Developer+💻;System+Design+📐;Simplicity+Driven+💎;Software+Architecture+🏗️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Systems+Engineer+⚙️;Full+Stack+Developer+💻;System+Design+📐;Software+Architecture+🏗️" />
   </h1>
 
   <p align="center">
