@@ -58,9 +58,6 @@ Soy un **Ingeniero de Sistemas** especializado en el ecosistema de JavaScript y 
   </tr>
 </table>
 
-> [!TIP]
-> **Desafío Actual:** Creando estándares de desarrollo y tooling interno para potenciar la productividad del equipo y simplificar el ciclo de vida del software.
-
 ---
 
 ## 🛠️ Tech Stack
