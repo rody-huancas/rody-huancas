@@ -130,7 +130,7 @@ Soy un **Ingeniero de Sistemas** especializado en el ecosistema de JavaScript y 
 
 Si tienes un problema complejo que necesita una solución elegante, hablemos.
 
-Siempre estoy disponibe a participar en proyectos de código abierto y colaboraciones que desafíen mis límites técnicos.
+Siempre estoy disponibe para participar en proyectos de código abierto y colaboraciones que desafíen mis límites técnicos.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rody-huancas" target="_blank">
