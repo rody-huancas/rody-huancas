@@ -115,13 +115,6 @@ Soy un **Ingeniero de Sistemas** especializado en el ecosistema de JavaScript y 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rody-huancas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rody-huancas&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rody-huancas&custom_title=Gráfico+de+Contribuciones&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="Gráfico de Actividad" />
 </div>
