@@ -92,45 +92,6 @@ I come from systems that already grew: CRMs, component libraries shared across s
 
 <br/>
 
-<details>
-<summary><b>Stack</b></summary>
-<br/>
-
-**Languages**<br/>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/MUI-0d1117?style=flat-square&logo=mui&logoColor=007FFF" />
-
-**Backend**<br/>
-<img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=E10098" />
-
-**Data**<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&labelColor=0d1117&color=0d1117" />
-<img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeORM-0d1117?style=flat-square&logo=typeorm&logoColor=FE0803" />
-
-**Infra and tooling**<br/>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
-
-</details>
-
-<br/>
-
 <div align="center">
   <sub>Got a complex problem that needs a simple solution? <a href="mailto:rodyhuancas.04@gmail.com">Let's talk.</a></sub>
 </div>
