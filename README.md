@@ -2,7 +2,7 @@
 
 # Rody Huancas
 
-**Systems Engineer · Full Stack TypeScript**
+**Systems Engineer · Full Stack Developer**
 
 I build open source libraries and tools for developers.<br/>
 Chiclayo, Peru.
