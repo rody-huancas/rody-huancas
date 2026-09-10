@@ -4,7 +4,7 @@
 
 **Systems Engineer · Full Stack Developer**
 
-I build open source libraries and tools for developers.<br/>
+I build open source libraries and tools that other developers use in their own projects.<br/>
 Chiclayo, Peru.
 
 <a href="https://rody-huancas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
@@ -16,7 +16,7 @@ Chiclayo, Peru.
 
 <br/>
 
-## What I've shipped
+## Projects
 
 <table>
 <tr>
@@ -27,12 +27,11 @@ Chiclayo, Peru.
 <sub>**Library** · TypeScript · Vite</sub>
 
 <img src="https://img.shields.io/npm/v/tabus-js?style=flat-square&labelColor=0d1117&color=3B82F6" />
-<img src="https://img.shields.io/npm/dm/tabus-js?style=flat-square&labelColor=0d1117&color=3B82F6" />
 
 </td>
 <td valign="top">
 
-A cross-tab message bus for the browser: type-safe, zero dependencies, built on `BroadcastChannel`. One API to keep state, sessions and notifications in sync across every open tab of your app.
+Keeps your app in sync across every open tab. If a user logs out in one tab, the others find out immediately. Same for state changes and notifications. Type-safe, no dependencies, built on `BroadcastChannel`.
 
 **[Repository](https://github.com/rody-huancas/tabus-js)** · [npm](https://www.npmjs.com/package/tabus-js) · [Docs](https://tabus-js.vercel.app/)
 
@@ -47,12 +46,11 @@ A cross-tab message bus for the browser: type-safe, zero dependencies, built on 
 <sub>**CLI** · TypeScript · Node.js</sub>
 
 <img src="https://img.shields.io/npm/v/glossic?style=flat-square&labelColor=0d1117&color=3B82F6" />
-<img src="https://img.shields.io/npm/dm/glossic?style=flat-square&labelColor=0d1117&color=3B82F6" />
 
 </td>
 <td valign="top">
 
-Reads an entire codebase and generates its technical documentation with AI: what each module does, its responsibilities, usage examples and architectural decisions. An 8-package monorepo with automated releases.
+Point it at a codebase and it writes the technical documentation: what each module does, how to use it, and the decisions behind it. Useful when you inherit a project nobody documented. Built as an 8-package monorepo with automated releases.
 
 **[Repository](https://github.com/rody-huancas/glossic)** · [npm](https://www.npmjs.com/package/glossic)
 
@@ -67,12 +65,11 @@ Reads an entire codebase and generates its technical documentation with AI: what
 <sub>**Library** · React · TypeScript</sub>
 
 <img src="https://img.shields.io/npm/v/react-rescuer?style=flat-square&labelColor=0d1117&color=3B82F6" />
-<img src="https://img.shields.io/npm/dm/react-rescuer?style=flat-square&labelColor=0d1117&color=3B82F6" />
 
 </td>
 <td valign="top">
 
-Centralized Error Boundary handling for React. Define once how errors are caught and reported, instead of wrapping half your component tree by hand.
+Handles React error boundaries from one place. You decide once how errors are caught, shown and reported, instead of wrapping half your component tree by hand.
 
 **[Repository](https://github.com/rody-huancas/react-rescuer)** · [npm](https://www.npmjs.com/package/react-rescuer)
 
@@ -82,16 +79,17 @@ Centralized Error Boundary handling for React. Define once how errors are caught
 
 <br/>
 
+
 ## How I work
 
-I come from systems that already grew: CRMs, component libraries shared across several teams, multi-brand mobile apps. The hard part there isn't writing the feature, it's making sure the team next to you can use it without asking you anything.
+I come from systems that already grew: CRMs, component libraries shared by several teams, multi-brand mobile apps. The hard part there is never writing the feature. It's making sure the team next to you can use it without asking you anything.
 
-- I design the public API before the implementation.
-- Docs and types are part of the deliverable, not an extra.
-- Automated releases and serious versioning, even on side projects.
+- I design the public API first, then the implementation.
+- Documentation and types ship with the code, not after it.
+- Automated releases and real versioning, side projects included.
 
 <br/>
 
 <div align="center">
-  <sub>Got a complex problem that needs a simple solution? <a href="mailto:rodyhuancas.04@gmail.com">Let's talk.</a></sub>
+  <sub>Open to interesting problems and collaborations — <a href="mailto:rodyhuancas.04@gmail.com">rodyhuancas.04@gmail.com</a></sub>
 </div>
