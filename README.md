@@ -91,5 +91,5 @@ I come from systems that already grew: CRMs, component libraries shared by sever
 <br/>
 
 <div align="center">
-  <sub>Open to interesting problems and collaborations — <a href="mailto:rodyhuancas.04@gmail.com">rodyhuancas.04@gmail.com</a></sub>
+  <sub>Open to interesting problems and collaborations</sub>
 </div>
